@@ -11,7 +11,7 @@ Python’un temel yapı taşlarıyla programlamaya giriş yapılan bu eğitimde;
 📌 *Ödevler:*
 - Hackerrank Challengeları
 - Coderbyte Challenge
-- Eğitim Bitirme Projesi
+- Eğitim Mini Projesi
 - Canlı Ders Ödevi
   
 ---
@@ -26,11 +26,17 @@ Verileri bellekte düzenli şekilde saklamak ve bu verilere etkili erişim sağl
 
 NumPy eğitimiyle birlikte, çok boyutlu diziler üzerinde çalışmayı sağlayan array yapıları tanıtıldı. Matris işlemleri, istatistiksel hesaplamalar, rastgele sayı üretimi, dizilerin yeniden şekillendirilmesi ve filtrelenmesi gibi pek çok temel işlem NumPy kütüphanesi kullanılarak gerçekleştirildi.
 
+📌 *Ödevler:*
+- Hackerrank Challengeları
+
 ---
 
 ## ⚙ Pandas & Veri Ön İşleme
 
 Veri analizi için kullanılan Pandas kütüphanesiyle veri çerçeveleri oluşturma, okuma, filtreleme ve birleştirme işlemleri detaylı biçimde ele alındı. Ayrıca eksik veya hatalı verilerin tespiti, doldurulması ya da silinmesi gibi veri temizleme teknikleri ve metin verilerinin işlenmesi konularında uygulamalı çalışmalar yapıldı.
+
+📌 *Ödevler:*
+- Canlı Ders Ödevi
 
 ---
 

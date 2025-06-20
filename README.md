@@ -20,6 +20,12 @@ Python’un temel yapı taşlarıyla programlamaya giriş yapılan bu eğitimde;
 
 Verileri bellekte düzenli şekilde saklamak ve bu verilere etkili erişim sağlamak için kullanılan yapıların ve çözüm yöntemlerinin temelleri öğrenildi. Linked list, stack, queue, hash table gibi temel veri yapılarının yanı sıra sıralama (merge sort, quick sort) ve arama (binary search, linear search) algoritmaları uygulamalı olarak analiz edildi. Zaman karmaşıklığı ve Big O notasyonu gibi performans ölçümleri de bu bölümde ele alındı.
 
+📌 *Klasör İçeriği:*
+- Eğitim Ödevleri
+  - Insertion Sort Projesi
+  - Merge Sort Projesi
+  - Binary Search Tree Projesi
+
 ---
 
 ## 🧮 Python - NumPy

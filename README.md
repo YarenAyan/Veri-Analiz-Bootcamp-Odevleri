@@ -52,6 +52,7 @@ SQL eğitimiyle birlikte, veri tabanlarında veri sorgulama, filtreleme, sırala
 
 📌 *Klasör İçeriği:*
 - Canlı Ders Kodları
+- Patika SQL Ödevleri
 
 ---
 

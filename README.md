@@ -1,6 +1,9 @@
 # 📚 Patika.dev & Kız Başına - Veri Analizi Bootcamp Ödevleri
 
-Bu repo, *Patika.dev* ve *Kız Başına* ortaklığıyla düzenlenen *Veri Analizi Bootcamp* süresince aldığım eğitimler ve bu eğitimler kapsamında gerçekleştirdiğim ödevleri içermektedir. Eğitim içerikleri hem asenkron derslerden hem de canlı oturumlardan oluşmakta ve veri bilimi alanına sağlam bir temel atmayı hedeflemektedir.
+Bu repo, *Patika.dev* ve *Kız Başına* ortaklığıyla düzenlenen **Veri Analizi Bootcamp** süresince tamamladığım eğitim içeriklerini ve ödevleri içermektedir. Bootcamp boyunca veri bilimi alanına dair birçok temel yetkinlik edinilmiş, hem teorik hem de uygulamalı eğitimlerle bilgi pekiştirilmiştir.
+
+> ✅ **Bootcamp başarıyla tamamlanmıştır.**  
+> 📌 *Bitirme projelerinin detayları aşağıda ayrı repolarda paylaşılmıştır.*
 
 ---
 
@@ -13,7 +16,7 @@ Python’un temel yapı taşlarıyla programlamaya giriş yapılan bu eğitimde;
 - Eğitim Mini Projesi
 - Canlı Ders Ödevi
 - Eğitim Ders Notları
-  
+
 ---
 
 ## 🧠 Veri Yapıları ve Algoritmalar
@@ -56,25 +59,46 @@ SQL eğitimiyle birlikte, veri tabanlarında veri sorgulama, filtreleme, sırala
 
 ---
 
+## 🎓 Bitirme Projeleri
+
+Bootcamp sonunda elde edilen tüm bilgileri gerçek birer proje kapsamında uygulamaya döktüğüm iki farklı bitirme projesi tamamlandı:
+
+1. ✈️ [Airline Passenger Satisfaction Data Analysis](https://github.com/YarenAyan/Airline-Passenger-Satisfaction-Data-Analysis)  
+   > Yolcu memnuniyetini etkileyen faktörlerin incelenmesi, aykırı ve eksik değer analizleriyle veri temizliği, Keşifsel Veri Analizi ve değişkenler arası ilişkilerin görselleştirilmesi.
+
+2. 🍪 [ETİ Satış Analizi](https://github.com/YarenAyan/ETI-Satis-Analizi)  
+   > ETİ markasına ait satış verilerinin SQL + DAX kullanılarak analiz edilmesi ve Power BI ile görselleştirilmesi.
+
+---
+
 ## 🛠 Kullanılan Teknolojiler
 
 - Python  
 - NumPy  
-- Pandas
-- Google Colab   
+- Pandas  
+- MSSQL  
+- Power BI
+- -DAX 
+- Google Colab  
 - Jupyter Notebook  
-- VS Code
-- MSSQL 
+- VS Code  
 
 ---
 
 ## 🚀 Ek Bilgiler
 
-- Her klasörde, ilgili eğitime ait ödevler yer almaktadır.
-- Canlı derslerde verilen mini projeler de buraya düzenli olarak eklenecektir.
-- *Bitirme projesi*, ayrı bir repoda paylaşılacaktır.
+- Her klasörde, ilgili eğitime ait tamamlanmış ödevler yer almaktadır.
+- Canlı derslerde verilen mini projeler ve uygulamalar düzenli olarak bu repoya eklenmiştir.
+- Bitirme projeleri bağımsız olarak iki ayrı GitHub reposu üzerinden incelenebilir.
 
 ---
 
-> Bu repo, eğitim sürecimin belgelenmesi ve öğrenim sürecimde oluşturduğum projelerin arşivlenmesi amacıyla hazırlanmıştır. İçerikler geliştikçe dosyalar da güncellenecektir.
-> Bu süreçte öneri, fikir alışveri, geri bildirim veya birlikte öğrenmeye her zaman açığım. İstediğinizde bana ulaşabilirsiniz.
+## 👩‍💻 Geliştirici Hakkında
+
+Merhaba! Ben Yaren Ayan. Bu repoda, veri analizi becerilerimi geliştirmek amacıyla Patika.dev & Kız Başına Bootcamp'inde gerçekleştirdiğim ödevler yer almkatadır. Her türlü öneri ve geri bildiriminiz için bana ulaşabilirsiniz.
+
+* 📧 İletişim: ayanyaren@hotmail.com
+* 📌 GitHub: [@yarenayan](https://github.com/yarenayan)  
+* 🔗 LinkedIn: [www.linkedin.com/in/yaren-ayan](https://www.linkedin.com/in/yaren-ayan)
+
+
